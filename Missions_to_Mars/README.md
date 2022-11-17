@@ -1,6 +1,6 @@
-# Assignment: Mission to Mars
+#  Mission to Mars
 
-In this assignment, I built a web application (app.py) that scrapes various websites for data related to the Mission to Mars and load to database (Mongodb) then displays the information in a single HTML page (index.html). 
+I built a web application (app.py) that scrapes various websites for data related to the Mission to Mars and load to database (Mongodb) then displays the information in a single HTML page (index.html). 
 
 
 ## Part  1: Scraping
